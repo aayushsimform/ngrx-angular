@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": 3,
+      "name": "Harry Potter and the Goblet of fire",
+      "author": "J.K Rowling",
+      "cost": 420
+    }
+  ]
+}
